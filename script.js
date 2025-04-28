@@ -1,8 +1,9 @@
 // === PottSave - script.js ===
 
 // === Google API Konfiguration ===
-const CLIENT_ID = 'HIER_DEINE_CLIENT_ID_EINFÜGEN';
-const API_KEY = 'HIER_DEIN_API_KEY_EINFÜGEN';
+// 👉 Hier musst du deine eigenen Werte einfügen:
+const CLIENT_ID = '1058518759383-85o69plleevh2o2ccl4oursc3vbcolkq.apps.googleusercontent.com';
+const API_KEY = 'AIzaSyBliDXHXfpKDzvR4Yc6-lESl6WlG-t90Lo';
 
 const DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/drive/v3/rest"];
 const SCOPES = "https://www.googleapis.com/auth/drive.file";
