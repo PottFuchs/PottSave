@@ -1,0 +1,16 @@
+{
+  "name": "PottSave",
+  "short_name": "PottSave",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0078D7",
+  "theme_color": "#0078D7",
+  "description": "Dateien sicher und einfach direkt auf Google Drive speichern.",
+  "icons": [
+    {
+      "src": "icon-rounded.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
